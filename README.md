@@ -5,10 +5,6 @@ Un proiect pentru gestionarea unei cafenele, incluzând funcționalități precu
 - Generarea rapoartelor zilnice
 - Organizarea evenimentelor speciale
 
-## Structura Proiectului
-- `src/`: Codul sursă al proiectului
-- `docs/`: Documentația proiectului
-- `videos/`: Prezentări video
 
 ## Instrucțiuni de rulare
 1. Compilați codul:
