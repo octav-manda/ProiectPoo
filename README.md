@@ -15,5 +15,6 @@ Un proiect pentru gestionarea unei cafenele, incluzând funcționalități precu
    ```bash
    g++ -o cafea main.cpp
 2. Rulati aplicatia:
-  ./cafea
+   ```bash
+   ./cafea
    
