@@ -1,0 +1,3 @@
+C:/Users/Claudia/CLionProjects/untitled35/cmake-build-debug/CMakeFiles/untitled35.dir
+C:/Users/Claudia/CLionProjects/untitled35/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Claudia/CLionProjects/untitled35/cmake-build-debug/CMakeFiles/rebuild_cache.dir
